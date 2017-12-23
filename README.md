@@ -77,12 +77,6 @@ Your final report should include each of the following:
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
-As final considerations:
 
-* Your script must work for both data-sets given.
-* You must use the Pandas Library and the Jupyter Notebook.
-* You must submit a link to your Jupyter Notebook with the viewable Data Frames. 
-* You must include an exported markdown version of your Notebook called  `README.md` in your GitHub repository.  
-* You must include a written description of three observable trends based on the data. 
-* See [Example Solution](PyCitySchools/PyCitySchools_Example.pdf) for a reference on the expected format. 
+<h3> The analysis was performed in  the PyCitySchool.ipynb file </h3>
 
